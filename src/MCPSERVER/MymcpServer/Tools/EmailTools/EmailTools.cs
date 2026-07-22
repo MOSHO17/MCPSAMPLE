@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Components.Forms;
 using ModelContextProtocol;
 using Microsoft.Extensions.AI;
 using ModelContextProtocol.Server;
-
+using Microsoft.Graph;
 
 [McpServerToolType]
 public class EmployeeTools

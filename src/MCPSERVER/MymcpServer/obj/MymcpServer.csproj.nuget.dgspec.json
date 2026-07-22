@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[9.0.9, )"
             },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
             "Microsoft.Graph": {
               "target": "Package",
               "version": "[6.2.0, )"

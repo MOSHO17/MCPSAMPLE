@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[9.0.9, )"
             },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
             "Microsoft.SemanticKernel": {
               "target": "Package",
               "version": "[1.78.0, )"

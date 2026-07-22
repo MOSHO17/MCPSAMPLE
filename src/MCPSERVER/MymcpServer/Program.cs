@@ -1,8 +1,23 @@
+using ModelContextProtocol;
+using Microsoft.Extensions.AI;
+using Microsoft.AspNetCore;
+using ModelContextProtocol.Server;
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+//[+] [add mcpservers]
+builder.Services
+    .AddMcpServer()
+    .WithTools<EmployeeTools>();
+
+//[-]
+
 
 var app = builder.Build();
 

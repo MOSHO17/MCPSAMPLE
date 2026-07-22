@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a1svnd+Y5go=",
+  "dgSpecHash": "JuJJUTnpz5o=",
   "success": true,
-  "projectFilePath": "/Users/mohitparulekar/Desktop/MCPDEMO/MCPSERVER/MyMcpServer/MyMcpServer.csproj",
+  "projectFilePath": "/Users/mohitparulekar/Desktop/MCPDEMO/src/MCPSERVER/MyMcpServer/MyMcpServer.csproj",
   "expectedPackageFiles": [
     "/Users/mohitparulekar/.nuget/packages/azure.core/1.50.0/azure.core.1.50.0.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",

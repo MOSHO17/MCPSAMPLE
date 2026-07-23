@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[7.0.2, )"
             },
+            "Microsoft.Extensions.Resilience": {
+              "target": "Package",
+              "version": "[10.8.0, )"
+            },
             "Microsoft.Graph": {
               "target": "Package",
               "version": "[6.2.0, )"

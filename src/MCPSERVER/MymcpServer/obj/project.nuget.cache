@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p1qDTc9KDr0=",
+  "dgSpecHash": "fkmoEzMgaPo=",
   "success": true,
   "projectFilePath": "/Users/mohitparulekar/Projects/MCPSAMPLE/src/MCPSERVER/MymcpServer/MymcpServer.csproj",
   "expectedPackageFiles": [
@@ -19,15 +19,24 @@
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.ai.openai/10.5.0/microsoft.extensions.ai.openai.10.5.0.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.caching.abstractions/10.0.7/microsoft.extensions.caching.abstractions.10.0.7.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.caching.memory/9.0.13/microsoft.extensions.caching.memory.9.0.13.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.compliance.abstractions/10.8.0/microsoft.extensions.compliance.abstractions.10.8.0.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.configuration/9.0.18/microsoft.extensions.configuration.9.0.18.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.7/microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.configuration.binder/9.0.18/microsoft.extensions.configuration.binder.9.0.18.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.2/microsoft.extensions.dependencyinjection.10.0.2.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.7/microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.diagnostics/9.0.18/microsoft.extensions.diagnostics.9.0.18.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.7/microsoft.extensions.diagnostics.abstractions.10.0.7.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.diagnostics.exceptionsummarization/10.8.0/microsoft.extensions.diagnostics.exceptionsummarization.10.8.0.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.7/microsoft.extensions.fileproviders.abstractions.10.0.7.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.hosting.abstractions/10.0.7/microsoft.extensions.hosting.abstractions.10.0.7.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.7/microsoft.extensions.logging.abstractions.10.0.7.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.objectpool/9.0.18/microsoft.extensions.objectpool.9.0.18.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.options/10.0.7/microsoft.extensions.options.10.0.7.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.options.configurationextensions/9.0.18/microsoft.extensions.options.configurationextensions.9.0.18.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.primitives/10.0.7/microsoft.extensions.primitives.10.0.7.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.resilience/10.8.0/microsoft.extensions.resilience.10.8.0.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.telemetry.abstractions/10.8.0/microsoft.extensions.telemetry.abstractions.10.8.0.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.extensions.vectordata.abstractions/10.1.0/microsoft.extensions.vectordata.abstractions.10.1.0.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.graph/6.2.0/microsoft.graph.6.2.0.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/microsoft.graph.core/4.0.1/microsoft.graph.core.4.0.1.nupkg.sha512",
@@ -57,6 +66,9 @@
     "/Users/mohitparulekar/.nuget/packages/modelcontextprotocol.aspnetcore/1.4.1/modelcontextprotocol.aspnetcore.1.4.1.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/modelcontextprotocol.core/1.4.1/modelcontextprotocol.core.1.4.1.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/openai/2.10.0/openai.2.10.0.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/polly.core/8.4.2/polly.core.8.4.2.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/polly.extensions/8.4.2/polly.extensions.8.4.2.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/polly.ratelimiting/8.4.2/polly.ratelimiting.8.4.2.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/std.uritemplate/2.0.8/std.uritemplate.2.0.8.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/system.clientmodel/1.10.0/system.clientmodel.1.10.0.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/system.configuration.configurationmanager/9.0.13/system.configuration.configurationmanager.9.0.13.nupkg.sha512",
@@ -72,7 +84,8 @@
     "/Users/mohitparulekar/.nuget/packages/system.security.cryptography.protecteddata/9.0.13/system.security.cryptography.protecteddata.9.0.13.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/system.text.encodings.web/10.0.6/system.text.encodings.web.10.0.6.nupkg.sha512",
     "/Users/mohitparulekar/.nuget/packages/system.text.json/10.0.6/system.text.json.10.0.6.nupkg.sha512",
-    "/Users/mohitparulekar/.nuget/packages/system.threading.channels/10.0.6/system.threading.channels.10.0.6.nupkg.sha512"
+    "/Users/mohitparulekar/.nuget/packages/system.threading.channels/10.0.6/system.threading.channels.10.0.6.nupkg.sha512",
+    "/Users/mohitparulekar/.nuget/packages/system.threading.ratelimiting/8.0.0/system.threading.ratelimiting.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

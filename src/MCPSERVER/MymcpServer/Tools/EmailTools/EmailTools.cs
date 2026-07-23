@@ -7,13 +7,13 @@ using Microsoft.Graph;
 [McpServerToolType]
 public class EmployeeTools
 {
-  [McpServerTool(Name = "GetEmployee")]
-public async Task<string> GetEmployee(int employeeId)
-{
-    await Task.Delay(100); // Simulate async work
+    [McpServerTool(Name = "GetEmployee")]
+    public async Task<string> GetEmployee(int employeeId)
+    {
+        await Task.Delay(100); // Simulate async work
 
-    return "Employee: Sarah";
-}
+        return "Employee: Sarah";
+    }
 }
 
 
